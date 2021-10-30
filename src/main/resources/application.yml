@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /wcone-market/api
+
+spring:
+  profiles:
+    active: dev
+

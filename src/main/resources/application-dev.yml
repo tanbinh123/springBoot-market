@@ -1,0 +1,6 @@
+server:
+  port: 8079
+  #  datasource:
+  #    url: jdbc:mysql://localhost:8889/pruebas?useSSL=false
+  #    username: root
+  #    password: root
